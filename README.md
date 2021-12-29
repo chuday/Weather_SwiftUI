@@ -1,4 +1,4 @@
-# Weather_SwiftUI
+# Weather Swift UI
 
 В проекте применены: 
 
